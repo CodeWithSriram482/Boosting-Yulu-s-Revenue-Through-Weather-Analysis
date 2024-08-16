@@ -1,4 +1,4 @@
-# Boosting-Yulu-s-Revenue-Through-Weather-Analysis
+# Optimizing AeroFit Treadmill Recommendations Through Customer Analysis
 View code
 
 [![Open in Colab](https://colab.research.google.com/img/colab_favicon.ico)https://colab.research.google.com/drive/1QbbOvmkc-Vhhi7rEh3v80_vZ9jN96axH?usp=sharing
